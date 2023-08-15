@@ -1,7 +1,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://sanjeev.vercel.app/" target="_blank">Sanjeev.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://sanjeevkadam.vercel.app" target="_blank">Sanjeev.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 
 ## 🛠 Installation and Setup Instructions
